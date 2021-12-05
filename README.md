@@ -33,4 +33,4 @@ Airdrop
 
 Webcam
 
-in Opencore and Big Sur, Wifi will work more smoothly with Airdrop if you replace Intel chip with any Intel Wifi Chip.
+in Opencore and Big Sur, Wifi will work more smoothly with Airdrop if you replace Atheros chip with any Intel Wifi Chip.
